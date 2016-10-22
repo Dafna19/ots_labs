@@ -125,3 +125,4 @@ end
   hold off
   title('S_{i}(f)');
   grid on
+%   slCharacterEncoding()
